@@ -110,7 +110,7 @@ new Chart("myChart3", {
 });
 
 // chart donut 4
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [14000,1000];
 var barColors = [
   "#00aba9",
@@ -130,7 +130,7 @@ new Chart("myChart4", {
 });
 
 // chart donut 5
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [20000,3000];
 var barColors = [
   "#DC143C",
@@ -150,7 +150,7 @@ new Chart("myChart5", {
 });
 
 // chart donut 6
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [1000,14000];
 var barColors = [
   "#FF7F50",
@@ -170,7 +170,7 @@ new Chart("myChart6", {
 });
 
 // chart donut 7
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -190,7 +190,7 @@ new Chart("myChart7", {
 });
 
 // chart donut 8
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -210,7 +210,7 @@ new Chart("myChart8", {
 });
 
 // chart donut 9
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -230,7 +230,7 @@ new Chart("myChart9", {
 });
 
 // chart donut 10
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -250,7 +250,7 @@ new Chart("myChart10", {
 });
 
 // chart donut 11
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -270,7 +270,7 @@ new Chart("myChart11", {
 });
 
 // chart donut 12
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -290,7 +290,7 @@ new Chart("myChart12", {
 });
 
 // chart donut 13
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -310,7 +310,7 @@ new Chart("myChart13", {
 });
 
 // chart donut 14
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -330,7 +330,7 @@ new Chart("myChart14", {
 });
 
 // chart donut 15
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -350,7 +350,7 @@ new Chart("myChart15", {
 });
 
 // chart donut 16
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -370,7 +370,7 @@ new Chart("myChart16", {
 });
 
 // chart donut 17
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -390,7 +390,7 @@ new Chart("myChart17", {
 });
 
 // chart donut 18
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -410,7 +410,7 @@ new Chart("myChart18", {
 });
 
 // chart donut 19
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -430,7 +430,7 @@ new Chart("myChart19", {
 });
 
 // chart donut 20
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -450,7 +450,7 @@ new Chart("myChart20", {
 });
 
 // chart donut 21
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -470,7 +470,7 @@ new Chart("myChart21", {
 });
 
 // chart donut 22
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -490,7 +490,7 @@ new Chart("myChart22", {
 });
 
 // chart donut 23
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -510,7 +510,7 @@ new Chart("myChart23", {
 });
 
 // chart donut 24
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -530,7 +530,7 @@ new Chart("myChart24", {
 });
 
 // chart donut 25
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -550,7 +550,7 @@ new Chart("myChart25", {
 });
 
 // chart donut 26
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -570,7 +570,7 @@ new Chart("myChart26", {
 });
 
 // chart donut 27
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -590,7 +590,7 @@ new Chart("myChart27", {
 });
 
 // chart donut 28
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -610,7 +610,7 @@ new Chart("myChart28", {
 });
 
 // chart donut 29
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -630,7 +630,7 @@ new Chart("myChart29", {
 });
 
 // chart donut 30
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -650,7 +650,7 @@ new Chart("myChart30", {
 });
 
 // chart donut 31
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -670,7 +670,7 @@ new Chart("myChart31", {
 });
 
 // chart donut 32
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -690,7 +690,7 @@ new Chart("myChart32", {
 });
 
 // chart donut 33
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -710,7 +710,7 @@ new Chart("myChart33", {
 });
 
 // chart donut 34
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -730,7 +730,7 @@ new Chart("myChart34", {
 });
 
 // chart donut 35
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -750,7 +750,7 @@ new Chart("myChart35", {
 });
 
 // chart donut 36
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -770,7 +770,7 @@ new Chart("myChart36", {
 });
 
 // chart donut 37
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -790,7 +790,7 @@ new Chart("myChart37", {
 });
 
 // chart donut 38
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -810,7 +810,7 @@ new Chart("myChart38", {
 });
 
 // chart donut 39
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -830,7 +830,7 @@ new Chart("myChart39", {
 });
 
 // chart donut 40
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -850,7 +850,7 @@ new Chart("myChart40", {
 });
 
 // chart donut 41
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -870,7 +870,7 @@ new Chart("myChart41", {
 });
 
 // chart donut 42
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -890,7 +890,7 @@ new Chart("myChart42", {
 });
 
 // chart donut 43
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -910,7 +910,7 @@ new Chart("myChart43", {
 });
 
 // chart donut 44
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -930,7 +930,7 @@ new Chart("myChart44", {
 });
 
 // chart donut 45
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -950,7 +950,7 @@ new Chart("myChart45", {
 });
 
 // chart donut 46
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -970,7 +970,7 @@ new Chart("myChart46", {
 });
 
 // chart donut 47
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -990,7 +990,7 @@ new Chart("myChart47", {
 });
 
 // chart donut 48
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1010,7 +1010,7 @@ new Chart("myChart48", {
 });
 
 // chart donut 49
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1030,7 +1030,7 @@ new Chart("myChart49", {
 });
 
 // chart donut 50
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1050,7 +1050,7 @@ new Chart("myChart50", {
 });
 
 // chart donut 51
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1070,7 +1070,7 @@ new Chart("myChart51", {
 });
 
 // chart donut 52
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1090,7 +1090,7 @@ new Chart("myChart52", {
 });
 
 // chart donut 53
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1110,7 +1110,7 @@ new Chart("myChart53", {
 });
 
 // chart donut 54
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1130,7 +1130,7 @@ new Chart("myChart54", {
 });
 
 // chart donut 55
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1150,7 +1150,7 @@ new Chart("myChart55", {
 });
 
 // chart donut 56
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1170,7 +1170,7 @@ new Chart("myChart56", {
 });
 
 // chart donut 57
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1190,7 +1190,7 @@ new Chart("myChart57", {
 });
 
 // chart donut 58
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1210,7 +1210,7 @@ new Chart("myChart58", {
 });
 
 // chart donut 59
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1230,7 +1230,7 @@ new Chart("myChart59", {
 });
 
 // chart donut 60
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1250,7 +1250,7 @@ new Chart("myChart60", {
 });
 
 // chart donut 61
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1270,7 +1270,7 @@ new Chart("myChart61", {
 });
 
 // chart donut 62
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1290,7 +1290,7 @@ new Chart("myChart62", {
 });
 
 // chart donut 63
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1310,7 +1310,7 @@ new Chart("myChart63", {
 });
 
 // chart donut 64
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1330,7 +1330,7 @@ new Chart("myChart64", {
 });
 
 // chart donut 65
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1350,7 +1350,7 @@ new Chart("myChart65", {
 });
 
 // chart donut 66
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1370,7 +1370,7 @@ new Chart("myChart66", {
 });
 
 // chart donut 67
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1390,7 +1390,7 @@ new Chart("myChart67", {
 });
 
 // chart donut 68
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1410,7 +1410,7 @@ new Chart("myChart68", {
 });
 
 // chart donut 69
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1430,7 +1430,7 @@ new Chart("myChart69", {
 });
 
 // chart donut 70
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1450,7 +1450,7 @@ new Chart("myChart70", {
 });
 
 // chart donut 71
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1470,7 +1470,7 @@ new Chart("myChart71", {
 });
 
 // chart donut 72
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1490,7 +1490,7 @@ new Chart("myChart72", {
 });
 
 // chart donut 73
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1510,7 +1510,7 @@ new Chart("myChart73", {
 });
 
 // chart donut 74
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1530,7 +1530,7 @@ new Chart("myChart74", {
 });
 
 // chart donut 75
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1550,7 +1550,7 @@ new Chart("myChart75", {
 });
 
 // chart donut 76
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1570,7 +1570,7 @@ new Chart("myChart76", {
 });
 
 // chart donut 77
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1590,7 +1590,7 @@ new Chart("myChart77", {
 });
 
 // chart donut 78
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1610,7 +1610,7 @@ new Chart("myChart78", {
 });
 
 // chart donut 79
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1630,7 +1630,7 @@ new Chart("myChart79", {
 });
 
 // chart donut 80
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1650,7 +1650,7 @@ new Chart("myChart80", {
 });
 
 // chart donut 81
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1670,7 +1670,7 @@ new Chart("myChart81", {
 });
 
 // chart donut 82
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1690,7 +1690,7 @@ new Chart("myChart82", {
 });
 
 // chart donut 83
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1710,7 +1710,7 @@ new Chart("myChart83", {
 });
 
 // chart donut 84
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1730,7 +1730,7 @@ new Chart("myChart84", {
 });
 
 // chart donut 85
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1750,7 +1750,7 @@ new Chart("myChart85", {
 });
 
 // chart donut 86
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1770,7 +1770,7 @@ new Chart("myChart86", {
 });
 
 // chart donut 87
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1790,7 +1790,7 @@ new Chart("myChart87", {
 });
 
 // chart donut 88
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1810,7 +1810,7 @@ new Chart("myChart88", {
 });
 
 // chart donut 89
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1830,7 +1830,7 @@ new Chart("myChart89", {
 });
 
 // chart donut 90
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1850,7 +1850,7 @@ new Chart("myChart90", {
 });
 
 // chart donut 91
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1870,7 +1870,7 @@ new Chart("myChart91", {
 });
 
 // chart donut 92
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1890,7 +1890,7 @@ new Chart("myChart92", {
 });
 
 // chart donut 93
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1910,7 +1910,7 @@ new Chart("myChart93", {
 });
 
 // chart donut 94
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1930,7 +1930,7 @@ new Chart("myChart94", {
 });
 
 // chart donut 95
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1950,7 +1950,7 @@ new Chart("myChart95", {
 });
 
 // chart donut 96
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1970,7 +1970,7 @@ new Chart("myChart96", {
 });
 
 // chart donut 97
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -1990,7 +1990,7 @@ new Chart("myChart97", {
 });
 
 // chart donut 98
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -2010,7 +2010,7 @@ new Chart("myChart98", {
 });
 
 // chart donut 99
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -2030,7 +2030,7 @@ new Chart("myChart99", {
 });
 
 // chart donut 100
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -2050,7 +2050,7 @@ new Chart("myChart100", {
 });
 
 // chart donut 101
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
@@ -2070,7 +2070,7 @@ new Chart("myChart101", {
 });
 
 // chart donut 102
-var xValues = ["Tool Life Time"];
+var xValues = ["Overlimit", "Tool Life Time"];
 var yValues = [40,60];
 var barColors = [
   "#00aba9",
